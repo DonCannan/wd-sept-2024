@@ -1,0 +1,22 @@
+h1{
+
+}
+
+#my-selector{
+
+}
+.my-class{
+
+
+}
+/*Id selectore starts with the # symbol*/
+#my-id-link{
+
+
+}
+/*Class selector uses the dot notation*/
+.my-class-link{
+color: green;
+font-size: 40px;
+
+}
